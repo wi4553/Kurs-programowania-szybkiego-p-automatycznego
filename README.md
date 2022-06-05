@@ -9,3 +9,4 @@ Programy można jeszcze generować asytentem głosowym AI mówić lub myśleć o
 Stwórzcie AI uczenie maszynowe github do pisania kodu a ktoś kto wymyśli opis i napisze readme program sam się stworzy do tego katalogu z opisem.  
 Pilotem za 1000 zł nigdy nie będę, dla idei chrześcijaństwa bo cierpienie uszlachetnia dusze dla ich sztuki:)
 Gdyby tak tworzono programy było by mniej wypadków a gazety nie miały by co pisać z WHO.
+Najlepiej system operacyjny pisać tak aby sam tworzył oprogramowanie czyli AI człowiek w procesorze. 
