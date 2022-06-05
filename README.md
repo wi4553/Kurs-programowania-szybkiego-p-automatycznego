@@ -4,3 +4,4 @@ Pisanie programów opisem słownym i matematycznym wprowadzenie danych do big da
 Kalkulator automatyczny do generowania kodu graficzny z klawaiturą i BCI i sterowaniem głosem asytentem lub wzrokiem. Programiści też potrzebują narzędzi. 
 Najprostrze programowanie to użycie terminala i języka słownego do opisu i zamiany opisu słownego na program komputerowy bez konieczności zatrudniania matematyków. AI oblicza i programuje. Tak wyjdą wysokiej jakości programy. 
 Komputer jest od liczenia a klawiatura do pisania opisu a opis na oko wyszedł z mody. 
+Można dodać do git hub lub oprorgamowania AI z podpowiedziami do wyboru kod aby go składać bez konieczności pisania a dopasowania AI. 
