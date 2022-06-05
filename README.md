@@ -10,3 +10,4 @@ Stwórzcie AI uczenie maszynowe github do pisania kodu a ktoś kto wymyśli opis
 Pilotem za 1000 zł nigdy nie będę, dla idei chrześcijaństwa bo cierpienie uszlachetnia dusze dla ich sztuki:)
 Gdyby tak tworzono programy było by mniej wypadków a gazety nie miały by co pisać z WHO.
 Najlepiej system operacyjny pisać tak aby sam tworzył oprogramowanie czyli AI człowiek w procesorze. 
+Wymyśla się tylko opis readme a potem AI uczenie masznowe generuje oprogramowanie. 
