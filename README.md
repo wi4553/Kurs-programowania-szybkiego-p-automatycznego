@@ -6,3 +6,4 @@ Najprostrze programowanie to użycie terminala i języka słownego do opisu i za
 Komputer jest od liczenia a klawiatura do pisania opisu a opis na oko wyszedł z mody. 
 Można dodać do git hub lub oprorgamowania AI z podpowiedziami do wyboru kod aby go składać bez konieczności pisania a dopasowania AI. 
 Programy można jeszcze generować asytentem głosowym AI mówić lub myśleć opisywać słownie a AI będzie pisać. 
+Stwórzcie AI uczenie maszynowe github do pisania kodu a ktoś kto wymyśli opis i napisze readme program sam się stworzy do tego katalogu z opisem.  
